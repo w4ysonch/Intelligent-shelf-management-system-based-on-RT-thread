@@ -16,3 +16,5 @@ readme.txt-----------------------------必读文件
       2. 将i2c_ssd1306.py、main.py复制到sdcard目录下；
       3. 打开main.py(记事本或pycharm)，复制代码，打开CanMV IDE K230软件粘贴代码并运行。
 
+
+已更改：2025.10.22
